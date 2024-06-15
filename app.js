@@ -1,3 +1,4 @@
+// gizivagyok
 function Gizivagyok() {
     console.log("Gizi vagyok, szia!");
 }
