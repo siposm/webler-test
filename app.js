@@ -8,6 +8,8 @@ function Lacivagyok() {
     console.log("Én pedig Laci vagyok, szia!")
 }
 
+xxx
+
 /**
  * Addition function
  * @param {number} a 
