@@ -1,0 +1,9 @@
+git workflow
+    - milyen szisztéma alapján használom a git adta lehetőségeket
+
+workflow opciók
+    - basic workflow
+    - ***trunk-based development (~basic)
+    - ***feature branches
+    - ***gitflow workflow
+    - forking workflow

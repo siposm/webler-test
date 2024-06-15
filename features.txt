@@ -1,0 +1,7 @@
+Features:
+
+- calculator application
+    - add(a, b) --> git checkout -b add-feature
+    - mul(a, b) --> git checkout -b mul-feature
+    - sub(a, b) --> git checkout -b sub-feature
+    - div(a, b) --> git checkout -b div-feature
