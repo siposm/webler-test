@@ -2,6 +2,10 @@ function Gizivagyok() {
     console.log("Gizi vagyok, szia!")
 }
 
+function Lacivagyok() {
+    console.log("Én pedig Laci vagyok, szia!")
+}
+
 /**
  * Addition function
  * @param {number} a 
