@@ -14,7 +14,7 @@ function div(a, b) {
  * Subtraction function.
  * @param {number} a 
  * @param {number} b 
- * @returns {number} result
+ * @returns {number} Returns the a-b result
  */
 function sub(a, b) {
     return a - b
