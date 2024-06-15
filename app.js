@@ -20,6 +20,12 @@ function sub(a, b) {
     return a - b
 }
 
+/**
+ * Multiplication function.
+ * @param {number} a 
+ * @param {number} b 
+ * @returns {number} Returns the a*b result.
+ */
 function mul(a, b) {
     return a * b
 }
