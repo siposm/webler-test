@@ -10,4 +10,8 @@ function div(a, b) {
     return "Division by zero is not possible!"
 }
 
+function sub(a, b) {
+    return a - b
+}
+
 console.log(add(10,20))
