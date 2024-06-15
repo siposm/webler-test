@@ -1,3 +1,6 @@
+git fetch -> adatok "letöltése"
+git pull -> adatok letöltése
+
 git workflow
     - milyen szisztéma alapján használom a git adta lehetőségeket
 
