@@ -1,5 +1,5 @@
 function Gizivagyok() {
-    console.log("Gizi vagyok, szia!")
+    console.log("Gizi vagyok, szia!");
 }
 
 function Lacivagyok() {
