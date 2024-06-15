@@ -1,10 +1,10 @@
 class Calculator {
 
     /**
-     * Addition function
+     * Addition function.
      * @param {number} a 
      * @param {number} b 
-     * @returns {number} returns a+b as a result
+     * @returns {number} Returns a+b as a result.
      */
     add(a, b) {
         return a + b
@@ -14,7 +14,7 @@ class Calculator {
      * Subtraction function.
      * @param {number} a 
      * @param {number} b 
-     * @returns {number} Returns the a-b result
+     * @returns {number} Returns the a-b result.
      */
     sub(a, b) {
         return a - b
@@ -43,16 +43,13 @@ class Calculator {
     }
 }
 
-function Gizivagyok() {
+function gizivagyok() {
     console.log("Gizi vagyok, szia!");
 }
 
-function Lacivagyok() {
+function gacivagyok() {
     console.log("Én pedig Laci vagyok, szia!")
 }
-
-xxx
-
 
 // Testing
 console.log(add(10, 20))
