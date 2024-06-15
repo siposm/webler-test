@@ -10,4 +10,18 @@ function div(a, b) {
     return "Division by zero is not possible!"
 }
 
+/**
+ * Subtraction function.
+ * @param {number} a 
+ * @param {number} b 
+ * @returns {number} Returns the a-b result
+ */
+function sub(a, b) {
+    return a - b
+}
+
+function mul(a, b) {
+    return a * b
+}
+
 console.log(add(10,20))
