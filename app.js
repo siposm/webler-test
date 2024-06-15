@@ -1,3 +1,7 @@
+function Gizivagyok() {
+    console.log("Gizi vagyok, szia!")
+}
+
 /**
  * Addition function
  * @param {number} a 
