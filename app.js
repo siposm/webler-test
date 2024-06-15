@@ -1,5 +1,9 @@
-console.log('hello console')
-
+/**
+ * Addition function
+ * @param {number} a 
+ * @param {number} b 
+ * @returns {number} returns a+b as a result
+ */
 function add(a, b) {
     return a + b
 }
