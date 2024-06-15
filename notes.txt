@@ -10,3 +10,5 @@ workflow opciók
     - ***feature branches
     - ***gitflow workflow
     - forking workflow
+
+PR -> pull request
