@@ -1,3 +1,4 @@
+// lacivagyok
 function Gizivagyok() {
     console.log("Gizi vagyok, szia!");
 }
