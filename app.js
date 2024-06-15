@@ -8,6 +8,12 @@ function add(a, b) {
     return a + b
 }
 
+/**
+ * Division function.
+ * @param {number} a 
+ * @param {number} b 
+ * @returns {number} Returns the a/b result.
+ */
 function div(a, b) {
     if (b !== 0)
         return a / b
@@ -34,4 +40,6 @@ function mul(a, b) {
     return a * b
 }
 
+// Testing
 console.log(add(10,20))
+console.log(div(10,20))
